@@ -1,2 +1,2 @@
 # Certificates
-List of all of my Certificates
+List of all my Certificates
